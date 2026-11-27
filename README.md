@@ -9,14 +9,14 @@ Building **Mobile & Web Prototypes**, **Front-End / UI-UX**, with strong interes
 
 ---
 
-## 🎓 Education
+## Education
 
 * **Universitas Esa Unggul** — B.Sc. in Computer Science / Informatics Engineering *(2024 – Present)* • **GPA: 3.56 / 4.00**
 * **Relevant Coursework:** Computer Networks, Information & Cyber Security, Web Programming, UI/UX Design, Database Systems, Operating Systems
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Highlights | Tech & Tools |
 | :--- | :--- | :--- |
@@ -26,7 +26,7 @@ Building **Mobile & Web Prototypes**, **Front-End / UI-UX**, with strong interes
 
 ---
 
-## 🛠️ Technical Stack & Training
+## Technical Stack & Training
 
 ### Languages & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
