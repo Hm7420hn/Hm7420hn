@@ -22,9 +22,11 @@ window.onscroll = () => {
 // 2. Typing Effect pada Teks Hero
 const dynamicText = document.querySelector('.typing-text');
 const textArray = [
-    "I'm a professional Web Developer.",
-    "Specialized in Front-End & Back-End Solutions.",
-    "Building modern & responsive web applications."
+    "I am a beginner Full-Stack developer.",
+    "I specialize exclusively in front-end & UI/UX solutions.",
+    "I build modern, responsive software.",
+    "I work on web-based & app-based experiments.",
+    "I am a beginner in penetration testing."
 ];
 let textIndex = 0;
 let charIndex = 0;
