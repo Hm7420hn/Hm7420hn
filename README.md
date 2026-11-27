@@ -1,23 +1,21 @@
-# Hi, I'm Hamadah Hilmi 👋
+![Hamadah Hilmi](github-header-2.png)
 
-**Informatics Engineering Student (Semester 5)** @ Universitas Esa Unggul • East Jakarta, Indonesia  
-Focused on **Computer Networking**, **Cyber Security Fundamentals**, **Front-End / UI-UX**, and **Mobile & Web Prototypes**.
+**Informatics Engineering Student** <br>Focused on Computer Networking, Cyber Security Fundamentals, Front-End / UI-UX, and Mobile & Web Prototypes.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hamadah-hilmi-8625a9271/)
-[![GitHub](https://img.shields.io/badge/GitHub-Hm7420hn-181717?style=flat-square&logo=github)](https://github.com/Hm7420hn)
+
+##### Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mudyfairy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamadah-hilmi) 
+
+##### Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=hm7420hn&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=hm7420hn&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hm7420hn&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=hm7420hn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###  Education
-* **Universitas Esa Unggul** — B.Sc. in Computer Science / Informatics Engineering (2024 – Present) | **GPA: 3.56 / 4.00**
-* **Relevant Coursework:** Computer Networks, Information & Cyber Security, Web Programming, UI/UX Design, Database Systems, Operating Systems
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-###  Featured Projects
-* **PARVE (Mobile Vehicle Parking App):** Collaborative mobile app development using **Flutter**, **Dart**, and **Figma**, including vehicle exit flow and Git workflow collaboration.
-* **Kafetani (Cafe Ordering & Local Farmer Marketplace):** Web prototype with menu/marketplace interface, **PHP/MySQL** admin panel, and responsive layout.
-* **Web & UI/UX Interfaces:** Wireframing, prototyping, and responsive front-end components built with **HTML**, **CSS**, **JavaScript**, and **Figma**.
 
-### 🛠️ Technical Stack & Training
-* **Languages & Frameworks:** HTML, CSS, JavaScript, Dart, Flutter, PHP, SQL
-* **Tools & Platforms:** Git, GitHub, VS Code, Figma, Cisco Packet Tracer
-* **Bootcamps & Courses:** Full-Stack Developer Bootcamp (Course-Net), Certified Ethical Hacker / CEH Training (Course-Net), Wall Street English
